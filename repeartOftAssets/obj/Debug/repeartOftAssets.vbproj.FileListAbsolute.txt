@@ -1,0 +1,14 @@
+C:\Users\PhathutshedzoT\source\repos\repeartOftAssets\repeartOftAssets\bin\Debug\repeartOftAssets.exe.config
+C:\Users\PhathutshedzoT\source\repos\repeartOftAssets\repeartOftAssets\bin\Debug\repeartOftAssets.exe
+C:\Users\PhathutshedzoT\source\repos\repeartOftAssets\repeartOftAssets\bin\Debug\repeartOftAssets.pdb
+C:\Users\PhathutshedzoT\source\repos\repeartOftAssets\repeartOftAssets\bin\Debug\repeartOftAssets.xml
+C:\Users\PhathutshedzoT\source\repos\repeartOftAssets\repeartOftAssets\obj\Debug\repeartOftAssets.vbprojAssemblyReference.cache
+C:\Users\PhathutshedzoT\source\repos\repeartOftAssets\repeartOftAssets\obj\Debug\repeartOftAssets.category.resources
+C:\Users\PhathutshedzoT\source\repos\repeartOftAssets\repeartOftAssets\obj\Debug\repeartOftAssets.Form1.resources
+C:\Users\PhathutshedzoT\source\repos\repeartOftAssets\repeartOftAssets\obj\Debug\repeartOftAssets.management.resources
+C:\Users\PhathutshedzoT\source\repos\repeartOftAssets\repeartOftAssets\obj\Debug\repeartOftAssets.Resources.resources
+C:\Users\PhathutshedzoT\source\repos\repeartOftAssets\repeartOftAssets\obj\Debug\repeartOftAssets.vbproj.GenerateResource.cache
+C:\Users\PhathutshedzoT\source\repos\repeartOftAssets\repeartOftAssets\obj\Debug\repeartOftAssets.vbproj.CoreCompileInputs.cache
+C:\Users\PhathutshedzoT\source\repos\repeartOftAssets\repeartOftAssets\obj\Debug\repeartOftAssets.exe
+C:\Users\PhathutshedzoT\source\repos\repeartOftAssets\repeartOftAssets\obj\Debug\repeartOftAssets.xml
+C:\Users\PhathutshedzoT\source\repos\repeartOftAssets\repeartOftAssets\obj\Debug\repeartOftAssets.pdb
